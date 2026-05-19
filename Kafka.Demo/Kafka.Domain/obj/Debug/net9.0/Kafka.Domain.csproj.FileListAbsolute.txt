@@ -1,0 +1,14 @@
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\bin\Debug\net9.0\Kafka.Domain.deps.json
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\bin\Debug\net9.0\Kafka.Domain.runtimeconfig.json
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\bin\Debug\net9.0\Kafka.Domain.dll
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\bin\Debug\net9.0\Kafka.Domain.pdb
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\obj\Debug\net9.0\Kafka.Domain.csproj.AssemblyReference.cache
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\obj\Debug\net9.0\Kafka.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\obj\Debug\net9.0\Kafka.Domain.AssemblyInfoInputs.cache
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\obj\Debug\net9.0\Kafka.Domain.AssemblyInfo.cs
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\obj\Debug\net9.0\Kafka.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\obj\Debug\net9.0\Kafka.Domain.dll
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\obj\Debug\net9.0\refint\Kafka.Domain.dll
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\obj\Debug\net9.0\Kafka.Domain.pdb
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\obj\Debug\net9.0\Kafka.Domain.genruntimeconfig.cache
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Domain\obj\Debug\net9.0\ref\Kafka.Domain.dll

@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.application\\interfaces\\ikafkaprocessorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|solutionrelative:kafka.application\\interfaces\\ikafkaprocessorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.application\\interfaces\\factories\\kafkaprocessorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|solutionrelative:kafka.application\\interfaces\\factories\\kafkaprocessorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0457886-AFFC-468F-AD2A-6E419EED1F84}|Kafka.Infrastructure\\Kafka.Infrastructure.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.infrastructure\\repositories\\bcppartorder\\repositorybcppartorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0457886-AFFC-468F-AD2A-6E419EED1F84}|Kafka.Infrastructure\\Kafka.Infrastructure.csproj|solutionrelative:kafka.infrastructure\\repositories\\bcppartorder\\repositorybcppartorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.consumer\\workers\\kafkaconsumerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|solutionrelative:kafka.consumer\\workers\\kafkaconsumerworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E216D373-BA6C-433D-8C2F-C96D48A6C050}|KafkaProducer\\KafkaProducer.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafkaproducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E216D373-BA6C-433D-8C2F-C96D48A6C050}|KafkaProducer\\KafkaProducer.csproj|solutionrelative:kafkaproducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.application\\services\\partordertopicprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|solutionrelative:kafka.application\\services\\partordertopicprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.application\\services\\kafkaprocessorresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|solutionrelative:kafka.application\\services\\kafkaprocessorresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.application\\services\\workordertopicprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|solutionrelative:kafka.application\\services\\workordertopicprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.consumer\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|solutionrelative:kafka.consumer\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC8229-EF20-410A-B75D-FE3F44325BE3}|Kafka.Domain\\Kafka.Domain.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.domain\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DC8229-EF20-410A-B75D-FE3F44325BE3}|Kafka.Domain\\Kafka.Domain.csproj|solutionrelative:kafka.domain\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.application\\iservices\\ikafkaprocessorresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|solutionrelative:kafka.application\\iservices\\ikafkaprocessorresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|solutionrelative:kafka.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|solutionrelative:kafka.consumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.consumer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|solutionrelative:kafka.consumer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.consumer\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|solutionrelative:kafka.consumer\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.consumer\\extensions\\loggingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|solutionrelative:kafka.consumer\\extensions\\loggingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.application\\mapper\\bcppartordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|solutionrelative:kafka.application\\mapper\\bcppartordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.consumer\\kafka.consumer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{634CD433-3145-46E7-AADE-0EBBC15EF306}|Kafka.Consumer\\Kafka.Consumer.API.csproj|solutionrelative:kafka.consumer\\kafka.consumer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.application\\iservices\\iservicebcppartorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A165AC30-2011-42EE-9D23-FED42869B650}|Kafka.Application\\Kafka.Application.csproj|solutionrelative:kafka.application\\iservices\\iservicebcppartorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC8229-EF20-410A-B75D-FE3F44325BE3}|Kafka.Domain\\Kafka.Domain.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.domain\\entities\\bcpworkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2DC8229-EF20-410A-B75D-FE3F44325BE3}|Kafka.Domain\\Kafka.Domain.csproj|solutionrelative:kafka.domain\\entities\\bcpworkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2DC8229-EF20-410A-B75D-FE3F44325BE3}|Kafka.Domain\\Kafka.Domain.csproj|d:\\projects\\practice-projects\\kafka.demo\\kafka.domain\\kafka.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2DC8229-EF20-410A-B75D-FE3F44325BE3}|Kafka.Domain\\Kafka.Domain.csproj|solutionrelative:kafka.domain\\kafka.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartOrderTopicProcessor.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Services\\PartOrderTopicProcessor.cs",
+              "RelativeDocumentMoniker": "Kafka.Application\\Services\\PartOrderTopicProcessor.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Services\\PartOrderTopicProcessor.cs",
+              "RelativeToolTip": "Kafka.Application\\Services\\PartOrderTopicProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T07:27:06.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\KafkaProducer\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaProducer\\Program.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\KafkaProducer\\Program.cs",
+              "RelativeToolTip": "KafkaProducer\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T06:00:01.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Kafka.Consumer\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Kafka.Consumer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-17T11:53:14.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoggingExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Extensions\\LoggingExtensions.cs",
+              "RelativeDocumentMoniker": "Kafka.Consumer\\Extensions\\LoggingExtensions.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Extensions\\LoggingExtensions.cs",
+              "RelativeToolTip": "Kafka.Consumer\\Extensions\\LoggingExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:48:23.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "Kafka.Consumer\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "Kafka.Consumer\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:30:38.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Kafka.Consumer\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Kafka.Consumer\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:29:29.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KafkaProcessorResolver.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Services\\KafkaProcessorResolver.cs",
+              "RelativeDocumentMoniker": "Kafka.Application\\Services\\KafkaProcessorResolver.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Services\\KafkaProcessorResolver.cs",
+              "RelativeToolTip": "Kafka.Application\\Services\\KafkaProcessorResolver.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAewDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:09:38.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IKafkaProcessorResolver.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\IServices\\IKafkaProcessorResolver.cs",
+              "RelativeDocumentMoniker": "Kafka.Application\\IServices\\IKafkaProcessorResolver.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\IServices\\IKafkaProcessorResolver.cs",
+              "RelativeToolTip": "Kafka.Application\\IServices\\IKafkaProcessorResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:09:04.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaProcessorFactory.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Interfaces\\Factories\\KafkaProcessorFactory.cs",
+              "RelativeDocumentMoniker": "Kafka.Application\\Interfaces\\Factories\\KafkaProcessorFactory.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Interfaces\\Factories\\KafkaProcessorFactory.cs",
+              "RelativeToolTip": "Kafka.Application\\Interfaces\\Factories\\KafkaProcessorFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:33:34.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BcpPartOrderMapper.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Mapper\\BcpPartOrderMapper.cs",
+              "RelativeDocumentMoniker": "Kafka.Application\\Mapper\\BcpPartOrderMapper.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Mapper\\BcpPartOrderMapper.cs",
+              "RelativeToolTip": "Kafka.Application\\Mapper\\BcpPartOrderMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:33:30.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KafkaConsumerWorker.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Workers\\KafkaConsumerWorker.cs",
+              "RelativeDocumentMoniker": "Kafka.Consumer\\Workers\\KafkaConsumerWorker.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Workers\\KafkaConsumerWorker.cs",
+              "RelativeToolTip": "Kafka.Consumer\\Workers\\KafkaConsumerWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:21:07.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IKafkaProcessorFactory.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Interfaces\\IKafkaProcessorFactory.cs",
+              "RelativeDocumentMoniker": "Kafka.Application\\Interfaces\\IKafkaProcessorFactory.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Interfaces\\IKafkaProcessorFactory.cs",
+              "RelativeToolTip": "Kafka.Application\\Interfaces\\IKafkaProcessorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T07:42:30.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkOrderTopicProcessor.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Services\\WorkOrderTopicProcessor.cs",
+              "RelativeDocumentMoniker": "Kafka.Application\\Services\\WorkOrderTopicProcessor.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\Services\\WorkOrderTopicProcessor.cs",
+              "RelativeToolTip": "Kafka.Application\\Services\\WorkOrderTopicProcessor.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T05:50:54.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IServiceBcpPartOrder.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\IServices\\IServiceBcpPartOrder.cs",
+              "RelativeDocumentMoniker": "Kafka.Application\\IServices\\IServiceBcpPartOrder.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Application\\IServices\\IServiceBcpPartOrder.cs",
+              "RelativeToolTip": "Kafka.Application\\IServices\\IServiceBcpPartOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T05:46:09.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryBcpPartOrder.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Infrastructure\\Repositories\\BcpPartOrder\\RepositoryBcpPartOrder.cs",
+              "RelativeDocumentMoniker": "Kafka.Infrastructure\\Repositories\\BcpPartOrder\\RepositoryBcpPartOrder.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Infrastructure\\Repositories\\BcpPartOrder\\RepositoryBcpPartOrder.cs",
+              "RelativeToolTip": "Kafka.Infrastructure\\Repositories\\BcpPartOrder\\RepositoryBcpPartOrder.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAADwv4IAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T04:24:27.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BcpWorkOrder.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Domain\\Entities\\BcpWorkOrder.cs",
+              "RelativeDocumentMoniker": "Kafka.Domain\\Entities\\BcpWorkOrder.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Domain\\Entities\\BcpWorkOrder.cs",
+              "RelativeToolTip": "Kafka.Domain\\Entities\\BcpWorkOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T04:17:46.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Domain\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Kafka.Domain\\Entities\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Domain\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Kafka.Domain\\Entities\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T04:05:06.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\appsettings.json",
+              "RelativeDocumentMoniker": "Kafka.Consumer\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\appsettings.json",
+              "RelativeToolTip": "Kafka.Consumer\\appsettings.json",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-17T04:03:38.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Kafka.Domain.csproj",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Domain\\Kafka.Domain.csproj",
+              "RelativeDocumentMoniker": "Kafka.Domain\\Kafka.Domain.csproj",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Domain\\Kafka.Domain.csproj",
+              "RelativeToolTip": "Kafka.Domain\\Kafka.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T03:58:38.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Kafka.Consumer.API.csproj",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Kafka.Consumer.API.csproj",
+              "RelativeDocumentMoniker": "Kafka.Consumer\\Kafka.Consumer.API.csproj",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Kafka.Consumer.API.csproj",
+              "RelativeToolTip": "Kafka.Consumer\\Kafka.Consumer.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T03:47:46.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Kafka.Consumer\\Program.cs",
+              "ToolTip": "D:\\Projects\\Practice-Projects\\Kafka.Demo\\Kafka.Consumer\\Program.cs",
+              "RelativeToolTip": "Kafka.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:36:35.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

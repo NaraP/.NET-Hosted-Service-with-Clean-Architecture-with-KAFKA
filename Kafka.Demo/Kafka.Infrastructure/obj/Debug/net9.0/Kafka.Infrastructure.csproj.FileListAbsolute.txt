@@ -1,0 +1,17 @@
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\bin\Debug\net9.0\Kafka.Infrastructure.deps.json
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\bin\Debug\net9.0\Kafka.Infrastructure.runtimeconfig.json
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\bin\Debug\net9.0\Kafka.Infrastructure.dll
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\bin\Debug\net9.0\Kafka.Infrastructure.pdb
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\bin\Debug\net9.0\Kafka.Domain.dll
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\bin\Debug\net9.0\Kafka.Domain.pdb
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\Kafka.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\Kafka.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\Kafka.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\Kafka.Infrastructure.AssemblyInfo.cs
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\Kafka.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\Kafka.In.25168741.Up2Date
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\Kafka.Infrastructure.dll
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\refint\Kafka.Infrastructure.dll
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\Kafka.Infrastructure.pdb
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\Kafka.Infrastructure.genruntimeconfig.cache
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Infrastructure\obj\Debug\net9.0\ref\Kafka.Infrastructure.dll

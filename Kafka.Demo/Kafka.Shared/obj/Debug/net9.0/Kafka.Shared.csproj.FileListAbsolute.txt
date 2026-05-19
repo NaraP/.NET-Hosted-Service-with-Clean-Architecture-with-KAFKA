@@ -1,0 +1,11 @@
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\bin\Debug\net9.0\Kafka.Shared.deps.json
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\bin\Debug\net9.0\Kafka.Shared.dll
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\bin\Debug\net9.0\Kafka.Shared.pdb
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\obj\Debug\net9.0\Kafka.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\obj\Debug\net9.0\Kafka.Shared.AssemblyInfoInputs.cache
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\obj\Debug\net9.0\Kafka.Shared.AssemblyInfo.cs
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\obj\Debug\net9.0\Kafka.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\obj\Debug\net9.0\Kafka.Shared.dll
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\obj\Debug\net9.0\refint\Kafka.Shared.dll
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\obj\Debug\net9.0\Kafka.Shared.pdb
+D:\Projects\Practice-Projects\Kafka.Demo\Kafka.Shared\obj\Debug\net9.0\ref\Kafka.Shared.dll

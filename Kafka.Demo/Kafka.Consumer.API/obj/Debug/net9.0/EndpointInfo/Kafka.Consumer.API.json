@@ -1,0 +1,10 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Kafka Consumer API",
+    "description": "Kafka Consumer API using .NET 9",
+    "version": "v1"
+  },
+  "paths": { },
+  "components": { }
+}
